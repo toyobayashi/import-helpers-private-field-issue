@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "out-cjs",
+    "module": "commonjs",
+    "target": "es2015",
+    "importHelpers": true,
+    "moduleResolution": "node",
+  },
+  "include": [
+    "src/index.ts"
+  ]
+}

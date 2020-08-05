@@ -1,0 +1,16 @@
+{
+  "name": "import-helpers-private-field-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc -p ./tsconfig.cjs.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslib": "^2.0.0",
+    "typescript": "^4.0.0-beta"
+  }
+}

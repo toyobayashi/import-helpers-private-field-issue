@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "out-esm",
+    "module": "ESNext",
+    "target": "es2015",
+    "importHelpers": true,
+    "moduleResolution": "node",
+  },
+  "include": [
+    "src/index.ts"
+  ]
+}
